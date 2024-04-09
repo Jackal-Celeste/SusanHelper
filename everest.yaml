@@ -1,6 +1,0 @@
-- Name: SusanHelper
-  Version: 1.1.6
-  DLL: Code/SusanHelper/bin/Debug/SusanHelper.dll
-  Dependencies:
-    - Name: Everest
-      Version: 1.0.0
